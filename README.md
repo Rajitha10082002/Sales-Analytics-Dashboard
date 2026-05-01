@@ -6,7 +6,7 @@ This project is a Sales Analytics Dashboard created using Power BI to analyze sa
 
 ## Dataset 
 https://github.com/Rajitha10082002/Sales-Analytics-Dashboard/blob/main/Customers.csv
-
+https://github.com/Rajitha10082002/Sales-Analytics-Dashboard/blob/main/Customers.csv
 ## Features
 
 * Total Sales Analysis
