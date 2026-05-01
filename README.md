@@ -26,7 +26,7 @@ https://github.com/Rajitha10082002/Sales-Analytics-Dashboard/blob/main/Customers
 
 ## Dashboard Screenshot
 
-(Add screenshot here)
+https://github.com/Rajitha10082002/Sales-Analytics-Dashboard/blob/main/eco.pbix
 
 ## Author
 
